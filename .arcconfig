@@ -1,0 +1,5 @@
+{
+  "project_id":         "krakenize",
+  "conduit_uri":        "https://phabricator.twitch.tv",
+  "immutable_history":  false
+}
